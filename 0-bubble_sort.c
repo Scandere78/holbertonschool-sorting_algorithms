@@ -27,7 +27,6 @@ void bubble_sort(int *array, size_t size)
 			break;
 	}
 }
-
 /**
  * swap - Swap values in array
  * @a: Number 1
